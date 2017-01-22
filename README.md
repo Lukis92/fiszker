@@ -1,12 +1,11 @@
 # Fiszker online
 
-## Key requirement: people need store words from foreign languages and their
-## meanings to learn, by lot one of them and write the equivalent.
+## Key requirement: people need store words from foreign languages and their meanings to learn, by lot one of them and write the equivalent.
 
 ##Models
 - Phrases -> word:string, meaning:string, sentence:text, sentence_meaning:text
 - Word_collections -> name:string, private:boolean, user_id:reference
-- User -> Devise
+x User -> Devise
 - AdminUser -> STI
 
 ## Features

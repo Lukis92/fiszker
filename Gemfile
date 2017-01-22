@@ -39,5 +39,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 #OWN GEMS
 gem 'annotate' # annotate classes, schema, routes info
 gem 'bootstrap', '~> 4.0.0.alpha6' # HTML, CSS and JavaScript framework
+gem 'devise', '~> 4.2' # authentication
 gem 'simple_form' # forms made easy for Rails!
 gem 'slim-rails' # slim html markup
