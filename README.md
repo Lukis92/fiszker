@@ -18,5 +18,5 @@
 | Name |  Version |
 | :--: | :---: |
 | [Ruby](https://www.ruby-lang.org) | 2.3.3 |
-| [Ruby on Rails](http://www.rubyonrails.org/) | 5.0.0.1 |
+| [Ruby on Rails](http://www.rubyonrails.org/) | 5.0.1 |
 | [PostgreSQL](http://www.postgresql.org/) | 9.4.8 |
